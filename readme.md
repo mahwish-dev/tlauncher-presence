@@ -21,7 +21,7 @@
  After you're done with doing the steps in #Maunally:<br>
  1. Edit `start-tlauncher.bat.example` file and add the required file paths.
  2. Save it as `start-tlauncher.bat`
- 3. Run the file `start-tlauncher.bat` in CMD. (This will open the RPC as well as Tlauncher)
+ 3. Run the file `start-tlauncher.bat`. (This will open the RPC as well as Tlauncher)
 
 #### Tip
  You can create a shortcut to the bat file and then save it on your desktop with the name Tlauncher or something so that whenever you open the bat file to play minecraft, it opens the RPC too.
