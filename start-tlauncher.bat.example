@@ -7,5 +7,5 @@ start node .\index.js
 :: Replace "your_username" with your Windows username 
 :: or replace the whole path with the correct path for your Tlauncher executable
 :: start Tlauncher
-C:\Users\UmamaIrene-PC\AppData\Roaming\.minecraft\TLauncher.exe
-start TLauncher
+cd C:\Users\UmamaIrene-PC\AppData\Roaming\.minecraft
+start TLauncher.exe
