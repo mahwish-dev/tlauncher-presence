@@ -8,17 +8,13 @@ const activity = {
         large_image: "minecraft_logo",
         large_text: "tlauncher",
     },
-    // buttons: [{
-    //     "label": "join!",
-    //     "url": "https://bit.ly/eggsenpai"
-    // }],
     timestamps: { start: Date.now() },
     instance: true
 }
 
 client.on('ready', () => {
     client.request("SET_ACTIVITY", { pid: process.pid, activity: activity });
-    console.log("The RPC is running :)");
+    console.log("The Tlauncher-RPC is running :)");
 
 });
 
