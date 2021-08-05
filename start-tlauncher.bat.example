@@ -1,11 +1,9 @@
-:: Navigate to the folder where your index script is saved if you aren't there already
-:: Then start the JS script
-cd C:\Users\UmamaIrene-PC\Documents\tlauncher-presence
+:: Change "C:\path\to\tlauncher-presence" to the code folder
+cd C:\path\to\tlauncher-presence
 start node .\index.js
 
 :: Now navigate to the folder where your Tlauncher executable is located
 :: Replace "your_username" with your Windows username 
 :: or replace the whole path with the correct path for your Tlauncher executable
-:: start Tlauncher
-cd C:\Users\UmamaIrene-PC\AppData\Roaming\.minecraft
+cd C:\Users\"your_username"\AppData\Roaming\.minecraft
 start TLauncher.exe
