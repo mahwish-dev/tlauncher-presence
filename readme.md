@@ -1,7 +1,8 @@
 # Tlauncher Discord Rich Presence
 
 ## Preview
-
+![image](./img/preview1.png)
+![image](./img/preview2.png)
 
 ## Requirements
 `npm` <br>
@@ -24,3 +25,6 @@
 
 #### Tip
  You can create a shortcut to the bat file and then save it on your desktop with the name Tlauncher or something so that whenever you open the bat file to play minecraft, it opens the RPC too.
+
+#### Support
+If you have any bugs/problems with the RPC. Feel free to join the support server: https://discord.gg/jQYEFv8UXX
